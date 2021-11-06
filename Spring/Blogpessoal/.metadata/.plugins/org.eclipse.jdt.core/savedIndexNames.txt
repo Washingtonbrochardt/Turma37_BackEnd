@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Usuario\Desktop\turma37\Spring\Blogpessoal\.metadata\.plugins\org.eclipse.jdt.core
-3413725848.index
